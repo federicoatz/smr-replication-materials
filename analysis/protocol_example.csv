@@ -1,0 +1,2 @@
+"claim_id","orig_conv_r","orig_sample_size_value","t_orig","r_sg","N_naive","N_safeguard","markup","N_observed","observed_to_safeguard","shortfall"
+"WLpV_single-trace",0.58329255119607,24,3.518,0.443749800635658,20,37,1.85,28,0.756756756756757,9

@@ -1,0 +1,2 @@
+"sample","specification","lower_bound","upper_bound","beta2","se_beta2","df","ci90_low","ci90_high","p_lower","p_upper","p_tost"
+"new data","Original sample-size control",0.8,1.25,1.19044379369747,0.260655865708284,95,0.757480894278752,1.62340669311619,0.0687336717523483,0.409879789132621,0.409879789132621

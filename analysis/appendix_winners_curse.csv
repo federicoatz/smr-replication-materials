@@ -1,0 +1,4 @@
+"assumed_inflation_pct","correction_factor","defined_claims","undefined_claims","median_markup","median_safeguard_target","claims_below","pct_below","total_shortfall"
+0,1,123,2,2.03809523809524,196,25,20.3252032520325,5337
+10,0.909090909090909,123,2,2.21538461538462,267,38,30.8943089430894,13375
+20,0.833333333333333,123,2,2.41935483870968,360,53,43.089430894309,27466.763
